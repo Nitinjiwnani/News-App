@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "422880323882",
+    "project_id": "fir-tutorials-58171",
+    "storage_bucket": "fir-tutorials-58171.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:422880323882:android:1c87c01b1bbb4acea29653",
+        "android_client_info": {
+          "package_name": "com.example.flutter_news_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "422880323882-b1b6sh9085c48bm7sq7o2sfdvjrjusb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHMAoLUsZPUmA3gRGjA_liDUjvKt1fxqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "422880323882-b1b6sh9085c48bm7sq7o2sfdvjrjusb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
